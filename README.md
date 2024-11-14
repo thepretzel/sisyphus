@@ -1,2 +1,3 @@
 # sisyphus
-unutma ki biri sisifos'u mutlu hayal etmeli
+
+biri sisifos'u mutlu hayal etmeli
